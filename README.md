@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/hariom-pareta/MyCodes/tree/master/0433-minimum-genetic-mutation) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariom-pareta/MyCodes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-pareta/MyCodes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hariom-pareta/MyCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hariom-pareta/MyCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hariom-pareta/MyCodes/tree/master/0238-product-of-array-except-self) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-pareta/MyCodes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3427-special-array-ii](https://github.com/hariom-pareta/MyCodes/tree/master/3427-special-array-ii) |
 ## String
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/hariom-pareta/MyCodes/tree/master/0433-minimum-genetic-mutation) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hariom-pareta/MyCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hariom-pareta/MyCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-pareta/MyCodes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hariom-pareta/MyCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hariom-pareta/MyCodes/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/hariom-pareta/MyCodes/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/hariom-pareta/MyCodes/tree/master/0222-count-complete-tree-nodes) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-pareta/MyCodes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Graph
 |  |
 | ------- |
